@@ -24,12 +24,6 @@ Por: **Wate Company**
 2. Extrae el contenido.
 3. Ejecuta `DCSecToolPro.exe`.
 
-## 📂 Ejecutar desde código fuente
-
-```bash
-pip install -r requirements.txt
-python dc_sectool_pro.py
-
 🔒 **Seguridad**
 El programa es 100% seguro. El código fuente está disponible para su revisión.
 
@@ -41,5 +35,10 @@ https://www.virustotal.com/gui/file/aff54f8dce93a67d3f0622ca0daa66ee601472aa95ab
 📬 Contacto
 Creado por Wate Company
 
+## 📂 Ejecutar desde código fuente
+
+```bash
+pip install -r requirements.txt
+python dc_sectool_pro.py
 Enlace a itch.io
 https://watecompany.itch.io/
