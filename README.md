@@ -34,11 +34,27 @@ https://www.virustotal.com/gui/file/aff54f8dce93a67d3f0622ca0daa66ee601472aa95ab
 
 📬 Contacto
 Creado por Wate Company
+Enlace a itch.io
+https://watecompany.itch.io/
 
 ## 📂 Ejecutar desde código fuente
 
 ```bash
 pip install -r requirements.txt
 python dc_sectool_pro.py
-Enlace a itch.io
-https://watecompany.itch.io/
+
+---
+
+### **Crear un archivo `requirements.txt` (Para quienes usen Linux)**
+
+Crea un archivo `requirements.txt` en la misma carpeta con este contenido:
+
+```txt
+customtkinter
+dnspython
+python-whois
+requests
+pefile
+pyperclip
+ping3
+Pillow
