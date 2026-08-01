@@ -29,3 +29,17 @@ Por: **Wate Company**
 ```bash
 pip install -r requirements.txt
 python dc_sectool_pro.py
+
+🔒 **Seguridad**
+El programa es 100% seguro. El código fuente está disponible para su revisión.
+
+✅ Los principales antivirus (Kaspersky, ESET, Bitdefender, ClamAV) lo detectan como limpio.
+
+✅ Comportamiento analizado sin detecciones maliciosas.
+https://www.virustotal.com/gui/file/aff54f8dce93a67d3f0622ca0daa66ee601472aa95abc00d259763dbcb9f9333/behavior
+
+📬 Contacto
+Creado por Wate Company
+
+Enlace a itch.io
+https://watecompany.itch.io/
