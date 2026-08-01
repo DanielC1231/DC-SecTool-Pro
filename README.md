@@ -1,6 +1,7 @@
 # 🛡️ DC - SecTool Pro
 
 **DC - SecTool Pro** es una suite todo-en-uno de ciberseguridad que combina múltiples herramientas en una sola interfaz moderna y fácil de usar.
+Por: **Wate Company**
 
 ## 🔧 Características
 
