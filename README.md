@@ -30,7 +30,7 @@ El programa es 100% seguro. El código fuente está disponible para su revisión
 ✅ Los principales antivirus (Kaspersky, ESET, Bitdefender, ClamAV) lo detectan como limpio.
 
 ✅ Comportamiento analizado sin detecciones maliciosas.
-https://www.virustotal.com/gui/file/aff54f8dce93a67d3f0622ca0daa66ee601472aa95abc00d259763dbcb9f9333/behavior
+https://www.virustotal.com/gui/file/057940c7316b6e113d86214bb1aa2a9b05a9d2fd26184397d75f1d4540ae4fb2/behavior
 
 📬 Contacto
 Creado por Wate Company
