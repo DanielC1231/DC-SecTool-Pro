@@ -405,7 +405,7 @@ class DCSecToolPro:
                      fg_color="#8E44AD").pack(side="left", padx=10)
         ctk.CTkButton(btn_frame, text="🔑 SMB Enum", command=self.smb_enum_real,
                      fg_color="#E74C3C").pack(side="left", padx=10)
-        ctk.CTkButton(btn_frame, text="🌐 DC Info", command=self.dc_info_real,
+        ctk.CTkButton(btn_frame, text="🌐Info", command=self.dc_info_real,
                      fg_color="#F39C12").pack(side="left", padx=10)
         ctk.CTkButton(btn_frame, text="📋 Copiar", command=lambda: self.copy_result(self.ad_result, "AD Auditor"),
                      fg_color="#8E44AD").pack(side="left", padx=10)
@@ -432,7 +432,7 @@ class DCSecToolPro:
                 sock.close()
                 if result == 0:
                     self.ad_result.insert("end", f"✅ Puerto LDAP {port} ABIERTO\n")
-                else:
+                else:a
                     self.ad_result.insert("end", f"❌ Puerto LDAP {port} CERRADO\n")
                     
             self.status_label.configure(text="✅ LDAP scan completado")
